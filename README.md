@@ -8,10 +8,10 @@
 
 1. **Customer Performance Report**:
 
-   - Created a detailed report to assess customer performance.
+   - Created a detailed report to assess customer performance [Customer_Performance_Report.pdf](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/Customer_Performance_Report.pdf)
 
 2. **Market Performance Comparison**:
-   - Compared market performance against sales targets.
+   - Compared market performance against sales targets [Market_Performance_Report_vs_Target.pdf](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/Market_Performance_Report_vs_Target.pdf)
 
 ### Purpose of Sales Analytics:
 
@@ -28,7 +28,7 @@
 - Help in negotiations with customers.
 - Find new markets for business expansion.
 
-For every sales report, you will find the corresponding Excel files.
+For every sales report, you will find in the corresponding [<a href="https://example.com" style="text-decoration: underline;">sales_market_report.xlsx</a>](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/sales_market_report.xlsx) Excel file.
 
 ## Finance Report
 
@@ -36,6 +36,8 @@ For every sales report, you will find the corresponding Excel files.
 
 1. **Profit and Loss (P&L) Reports by Fiscal Year and Month**:
    - Created P&L reports for each fiscal year and month.
+     [P&L_Monthly_report_Financial_analytics.pdf](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/P%26L_Monthly_report_Financial_analytics.pdf)  
+     [P&L_Year_Report_Financial_report.pdf](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/P%26L_Year_Report_Financial_report.pdf)
 
 ### Purpose of Finance Analytics:
 
@@ -48,7 +50,7 @@ For every sales report, you will find the corresponding Excel files.
 - Compare with industry peers and past periods.
 - Plan budgets and forecasts.
 
-For every finance report, you will find the corresponding Excel files.
+For every finance report, you will find in the corresponding [<a href="https://example.com" style="text-decoration: underline;">financial_analytics_report.xlsx</a>](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/financial_analytics_report.xlsx) Excel file
 
 ## Technical & Soft Skills
 
