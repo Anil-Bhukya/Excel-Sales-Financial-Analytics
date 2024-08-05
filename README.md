@@ -28,7 +28,7 @@
 - Help in negotiations with customers.
 - Find new markets for business expansion.
 
-For every sales report, you will find in the corresponding [<a href="https://example.com" style="text-decoration: underline;">sales_market_report.xlsx</a>](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/sales_market_report.xlsx) Excel file.
+For every sales report, you will find in the corresponding [sales_market_report.xlsx](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/sales_market_report.xlsx) Excel file.
 
 ## Finance Report
 
@@ -50,7 +50,7 @@ For every sales report, you will find in the corresponding [<a href="https://exa
 - Compare with industry peers and past periods.
 - Plan budgets and forecasts.
 
-For every finance report, you will find in the corresponding [<a href="https://example.com" style="text-decoration: underline;">financial_analytics_report.xlsx</a>](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/financial_analytics_report.xlsx) Excel file
+For every finance report, you will find in the corresponding [financial_analytics_report.xlsx](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/financial_analytics_report.xlsx) Excel file
 
 ## Technical & Soft Skills
 
