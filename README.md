@@ -8,10 +8,10 @@
 
 1. **Customer Performance Report**:
 
-   - Created a detailed report to assess customer performance [Customer_Performance_Report.pdf](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/Customer_Performance_Report.pdf)
+   - Created a detailed report to assess customer performance [customer_performance_Report.png](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/customer_performance_report.png)
 
 2. **Market Performance Comparison**:
-   - Compared market performance against sales targets [Market_Performance_Report_vs_Target.pdf](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/Market_Performance_Report_vs_Target.pdf)
+   - Compared market performance against sales targets [Market_Performance_Report_vs_Target.png](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/Market_Performance_Report_vs_Target.png)
 
 ### Purpose of Sales Analytics:
 
@@ -36,8 +36,8 @@ For every sales report, you will find in the corresponding [sales_market_report.
 
 1. **Profit and Loss (P&L) Reports by Fiscal Year and Month**:
    - Created P&L reports for each fiscal year and month.
-     [P&L_Monthly_report_Financial_analytics.pdf](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/P%26L_Monthly_report_Financial_analytics.pdf)  
-     [P&L_Year_Report_Financial_report.pdf](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/P%26L_Year_Report_Financial_report.pdf)
+     [P&L_Monthly_report_Financial_analytics.png](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/P%26L_Monthly_report_Financial_analytics.png)  
+     [P&L_Year_Report_Financial_report.png](https://github.com/Anil-Bhukya/Excel-Sales-Financial-Analytics/blob/main/Reports/P%26L_Year_Report_Financial_report.png)
 
 ### Purpose of Finance Analytics:
 
